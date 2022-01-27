@@ -1,3 +1,3 @@
 # Object-recognition-and-counting
 
-This is a researc project for fast and efficent object detection, recognition an dcounting in high definitiuon videos in real time.
+This is a research project for fast and efficient object detection, recognition and counting in high definition videos in real time.
