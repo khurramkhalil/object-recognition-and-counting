@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = D:\Khurram\Datasets\DAVIS-2017-trainval-480p\DAVIS
