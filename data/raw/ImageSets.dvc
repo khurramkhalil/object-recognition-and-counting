@@ -1,0 +1,5 @@
+outs:
+- md5: b41e6dff36a5bf5aec0c68584cff25d8.dir
+  size: 1389
+  nfiles: 4
+  path: ImageSets
